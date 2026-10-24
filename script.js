@@ -6,7 +6,7 @@ const projects = [
   {name:"Advanced IPv4 Subnet Calculator", meta:"JavaScript · IPv4 · Subnetting",
    desc:"A subnet calculator for working out networks, masks and host ranges.",
    links:[["code","https://github.com/0diNx1/subnet-calculator"]]},
-  {name:"mikrotik-vlan-ipassign", meta:"HTML · CSS · JavaScript · RouterOs",
+  {name:"mikrotik-vlan-ipassign", meta:"VLAN · IP · Interface · RouterOs",
    desc:"My hands-on MikroTik RouterOS practice: VLAN + IP setup walkthrough.",
    links:[["project","https://github.com/0diNx1/mikrotik-vlan-ip-walkthrough"]]},
   {name:"EvilADB", meta:"Bash · ADB · Android",
