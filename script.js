@@ -6,9 +6,9 @@ const projects = [
   {name:"Advanced IPv4 Subnet Calculator", meta:"JavaScript · IPv4 · Subnetting",
    desc:"A subnet calculator for working out networks, masks and host ranges.",
    links:[["code","https://github.com/0diNx1/subnet-calculator"]]},
-  {name:"Web2APK Pro", meta:"HTML · CSS · JavaScript · Android",
-   desc:"Turns a plain HTML/CSS/JavaScript project (no framework, no build step) into an installable Android APK.",
-   links:[["code","https://github.com/0diNx1/web2apk-pro"]]},
+  {name:"mikrotik-vlan-ipassign", meta:"HTML · CSS · JavaScript · RouterOs",
+   desc:"My hands-on MikroTik RouterOS practice: VLAN + IP setup walkthrough.",
+   links:[["project","https://github.com/0diNx1/mikrotik-vlan-ip-walkthrough"]]},
   {name:"EvilADB", meta:"Bash · ADB · Android",
    desc:"A Bash CLI for managing Android devices over ADB, made for authorized security testing and learning.",
    links:[["code","https://github.com/0diNx1/EvilADB"]]}
